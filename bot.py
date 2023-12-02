@@ -309,4 +309,4 @@ async def reminder():
         await general_channel.send("No hay tareas para hoy.")
 
 
-bot.run("MTE2NTQ1MjMwNDgyNTIwNDkwOA.Gferpz.rS-1a4e-WPRkr-GxpgH4oHm5RAQZjwsyZ5z9GA")
+bot.run("MTE2NTQ1MjMwNDgyNTIwNDkwOA.GE6Q6e.2k00L-shgEHq-WubrSLiao2K37CMhfN4ZXnZy0")
